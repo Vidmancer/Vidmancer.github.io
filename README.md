@@ -1,4 +1,4 @@
-##Hi, I'm Vidmancer
+## Hi, I'm Vidmancer
 The indie game developer behind File Under Kingdom, my first steam game!
 
 <p align="center">
