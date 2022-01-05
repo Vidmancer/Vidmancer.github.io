@@ -3,8 +3,7 @@
 
 @import "{{ site.theme }}";
 .main-content {
-  body {
-    background-color: black;
-  }
+  h1 {
+   color: #ff0000;
+ }
 }
-
