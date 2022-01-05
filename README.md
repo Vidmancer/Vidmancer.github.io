@@ -1,3 +1,10 @@
+##Hi, I'm Vidmancer
+The indie game developer behind File Under Kingdom, my first steam game!
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAjBmZcs1X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Vidmancer/Vidmancer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
