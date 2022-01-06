@@ -13,6 +13,7 @@ What was initially going to be a puzzle game has turned into a kind of city buil
 
 ## Socials
 You can find me on
+
 [Twitter](https://twitter.com/vidmancer)
 
 [YouTube](https://www.youtube.com/channel/UCL1xD-gBE7MswqJX0s-bFpg)
