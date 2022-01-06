@@ -1,5 +1,5 @@
  <p align="center">
- <img src="assets/images/Draft3.gif" alt="Image description">
+ <img src="assets/images/TextLogo-1.png" alt="Image description">
  </p>
  
 # Vidmancer
