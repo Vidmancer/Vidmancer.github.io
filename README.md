@@ -1,4 +1,3 @@
- ```markdown
  <p align="center">
  <img src="assets/images/TextLogo3.png" alt="Image description">
  </p>
@@ -12,7 +11,6 @@ Hi I'm Vidmancer, the indie game developer behind File Under Kingdom, my first s
 <p align="center">
  <img src="assets/images/Draft4.gif" alt="Image description">
  </p>
-```
 
 ## Welcome to GitHub Pages
 
