@@ -1,7 +1,7 @@
  <p align="center">
  <img src="assets/images/TextLogo3.png" alt="Image description">
  </p>
-Hi I'm Vidmancer, the indie game developer behind File Under Kingdom, my first steam game!
+Hi I'm Vidmancer, the indie game developer behind File Under Kingdom, my first Steam game!
 
 
 
