@@ -11,7 +11,7 @@ I'm Vidmancer, the indie game developer behind File Under Kingdom, my first Stea
 
 What was initially going to be a puzzle game has turned into a kind of city builder and interactive story, where how you build the kingdom alters events and/or choices of its leaders. You can find more details on the [Steam page](https://store.steampowered.com/app/1851120/File_Under_Kingdom/).
 
-#Socials
+## Socials
 You can find me on
 [Twitter](https://twitter.com/vidmancer)
 
