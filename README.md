@@ -13,6 +13,8 @@ Hi I'm Vidmancer, the indie game developer behind File Under Kingdom, my first S
  <img src="assets/images/Draft4.gif" alt="Image description">
  </p>
 
+What was initially going to be a puzzle game has turned into a kind of city builder and interactive story, where how you build the kingdom alters events and/or choices of its leaders. You can find more details on the [Steam page](https://store.steampowered.com/app/1851120/File_Under_Kingdom/).
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Vidmancer/Vidmancer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
