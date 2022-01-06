@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.main-content {
-  body {
-   background-color: black;
- }
+.page-body{
+color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
 }
