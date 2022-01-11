@@ -58,11 +58,11 @@ Design, Programming, and Story
 Art
 <ul>
 <li>Dino0040</li>
-<li>Kenney.nl<li>
+<li>Kenney.nl</li>
 <li>Matthew Rimmer</li>
 <li>Poneti Free</li>
 <li>REXARD</li>
- </ul>
+</ul>
 Music
 </ul>
 <li>Owl Theory Music</li>
@@ -71,14 +71,14 @@ Sound Effects
 <ul>
 <li>Evil Mind (Tao & Sound)</li>
 <li>Kenney.nl</li>
- </ul>
+</ul>
 Icons (Game-icons.net)
 <ul>
 <li>Delapouite</li>
 <li>HeavenlyDog</li>
 <li>Lorc</li>
 <li>sbed</li>
- </ul>
+</ul>
 Fonts
 <ul>
 <li>Black Chancery – Earl Allen/Doug Miles</li>
