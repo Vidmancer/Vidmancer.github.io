@@ -64,7 +64,7 @@ Art
 <li>REXARD</li>
 </ul>
 Music
-</ul>
+<ul>
 <li>Owl Theory Music</li>
 </ul>
 Sound Effects
