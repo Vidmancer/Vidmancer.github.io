@@ -27,11 +27,11 @@ info@vidmancer.com
 
 ## Press Kit
 
-#Files
+### Files
 [File Under Kingdom press kit on Google Drive](https://drive.google.com/drive/folders/11O4KLaO57R9sLQxYHMa5uz4x18Gj7rHy?usp=sharing)
 
 
-# Factsheet
+### Factsheet
 <ul>
     <li>Game: File Under Kingdom</li>
     <li>Developer & Publisher: Vidmancer</li>
@@ -41,7 +41,7 @@ info@vidmancer.com
     <li>Price: $9.99 USD</li>
   </ul>
   
-# Description
+### Description
 <p>File Under Kingdom is a mix of city builder, puzzle game, and interactive story.</p>
 
 <p>As the new Royal Planner, it is your job to satisfy the needs of the kingdom through clever placement of buildings and land. Each building will generate a resource according to what surrounds it, be it natural or manmade.</p>
