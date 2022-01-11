@@ -36,7 +36,8 @@ info@vidmancer.com
 ### Factsheet
 <ul>
     <li>Game: File Under Kingdom</li>
-    <li>Developer & Publisher: Vidmancer</li>
+    <li>Developer: Vidmancer</li>
+    <li>Publisher: Self-published</li>
     <li>Platforms: PC (Windows, Mac, and Linux)</li>
     <li>Available on: Steam</li>
     <li>Release date: 18th January 2022</li>
