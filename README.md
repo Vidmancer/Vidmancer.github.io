@@ -51,26 +51,36 @@ info@vidmancer.com
 <p>Once the needs are met you will be shown transcripts from the Council Meetings, where you can see how focusing on one resource over another has altered events and/or forced the king down a particular path.</p>
 
 ### Credits
-<ul>
 Design, Programming, and Story
+<ul>
 <li>Matthew Rimmer</li>
+ </ul>
 Art
+<ul>
 <li>Dino0040</li>
 <li>Kenney.nl<li>
 <li>Matthew Rimmer</li>
 <li>Poneti Free</li>
 <li>REXARD</li>
+ </ul>
 Music
+</ul>
 <li>Owl Theory Music</li>
+</ul>
 Sound Effects
+<ul>
 <li>Evil Mind (Tao & Sound)</li>
 <li>Kenney.nl</li>
+ </ul>
 Icons (Game-icons.net)
+<ul>
 <li>Delapouite</li>
 <li>HeavenlyDog</li>
 <li>Lorc</li>
 <li>sbed</li>
+ </ul>
 Fonts
+<ul>
 <li>Black Chancery – Earl Allen/Doug Miles</li>
 <li>Newt Serif – Looseleaf Fonts</li>
 </ul>
