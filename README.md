@@ -25,6 +25,31 @@ Or shoot me an email at
 
 info@vidmancer.com
 
+## Press Kit
+
+#Files
+[File Under Kingdom press kit on Google Drive](https://drive.google.com/drive/folders/11O4KLaO57R9sLQxYHMa5uz4x18Gj7rHy?usp=sharing)
+
+
+# Factsheet
+<ul>
+    <li>Game: File Under Kingdom</li>
+    <li>Developer & Publisher: Vidmancer</li>
+    <li>Platforms: PC (Windows, Mac, and Linux)</li>
+    <li>Available on: Steam</li>
+    <li>Release date: 18th January 2022</li>
+    <li>Price: $9.99 USD</li>
+  </ul>
+  
+# Description
+<p>File Under Kingdom is a mix of city builder, puzzle game, and interactive story.</p>
+
+<p>As the new Royal Planner, it is your job to satisfy the needs of the kingdom through clever placement of buildings and land. Each building will generate a resource according to what surrounds it, be it natural or manmade.</p>
+
+<p>Use a combination of buildings to get the most out of the space you have, as your funds can dry up fast, leaving you to sell the land you just developed to buy more.</p>
+
+<p>Once the needs are met you will be shown transcripts from the Council Meetings, where you can see how focusing on one resource over another has altered events and/or forced the king down a particular path.</p>
+
 <p align="center">
  <img src="assets/images/Draft4.gif" alt="Image description">
  </p>
