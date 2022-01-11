@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+
+defaults:
+  - scope:
+      path: "Vidmancer.github.io/presskit"
+    values:
+      layout: default
