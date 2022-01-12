@@ -30,7 +30,7 @@ info@vidmancer.com
 <p>    </p>
 
 ### Files
-[File Under Kingdom press kit on Google Drive](https://drive.google.com/drive/folders/11O4KLaO57R9sLQxYHMa5uz4x18Gj7rHy?usp=sharing)
+
 
 
 ### Factsheet
