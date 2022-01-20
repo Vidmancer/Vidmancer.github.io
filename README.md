@@ -23,7 +23,7 @@ You can find me on
 
 Or shoot me an email at 
 
-info@vidmancer.com
+info[at]vidmancer.com
 
 ## Press Kit
 
