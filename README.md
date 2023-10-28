@@ -2,6 +2,7 @@
  <img src="assets/images/TextLogo3.png" alt="Image description">
  </p>
 
+<hr>
 ## Hello
 I'm Vidmancer, the indie game developer behind File Under Kingdom, my first Steam game!  
 
