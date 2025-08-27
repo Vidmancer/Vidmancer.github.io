@@ -6,7 +6,7 @@
 I’m Vidmancer, the indie dev behind File Under Kingdom and Stellar Routes!
 <hr>
 
-##Stellar Routes
+## Stellar Routes
 Stellar Routes is a transportation management game set in space, where you can draw routes around planets to slingshot ships to their destination.
 
 [Steam page](https://store.steampowered.com/app/3948490/Stellar_Routes/). 
@@ -17,7 +17,7 @@ Stellar Routes is a transportation management game set in space, where you can d
 <iframe width="853" height="480" src="https://youtu.be/kLYNrF6ZSUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-##File Under Kingdom
+## File Under Kingdom
 File Under Kingdom is a mix of city builder and puzzle game, with a story that changes with how you plan/build the kingdom. 
 
 [Steam page](https://store.steampowered.com/app/1851120/File_Under_Kingdom/). 
