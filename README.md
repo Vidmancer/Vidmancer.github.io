@@ -37,9 +37,7 @@ You can find me on
 
 [YouTube](https://www.youtube.com/channel/UCL1xD-gBE7MswqJX0s-bFpg)
 
-Or shoot me an email at 
-
-info[at]vidmancer.com
+Or shoot me an email at info[at]vidmancer.com
 <hr>
 
 <p align="center">
