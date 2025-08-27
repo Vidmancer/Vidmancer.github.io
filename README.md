@@ -31,11 +31,11 @@ File Under Kingdom is a mix of city builder and puzzle game, with a story that c
 ## Socials
 You can find me on
 
-[Twitter](https://twitter.com/vidmancer)
+[Discord](https://discord.gg/eBnHH4SKw5)
+
+[Bluesky](https://bsky.app/profile/vidmancer.bsky.social)
 
 [YouTube](https://www.youtube.com/channel/UCL1xD-gBE7MswqJX0s-bFpg)
-
-[Discord](https://discord.gg/eBnHH4SKw5)
 
 Or shoot me an email at 
 
