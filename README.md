@@ -14,7 +14,7 @@ Stellar Routes is a transportation management game set in space, where you can d
 [Press Kit](https://impress.games/press-kit/vidmancer/stellar-routes)
 
 <p align="center">
-<iframe width="853" height="480" src="https://youtu.be/kLYNrF6ZSUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/kLYNrF6ZSUA?si=i6XUDtOgFC3Yiivn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## File Under Kingdom
