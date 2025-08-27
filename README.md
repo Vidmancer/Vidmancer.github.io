@@ -40,6 +40,7 @@ You can find me on
 Or shoot me an email at 
 
 info[at]vidmancer.com
+<hr>
 
 <p align="center">
  <img src="assets/images/Draft4.gif" alt="Image description">
